@@ -1,1 +1,1 @@
-# Leet-code
+The problem involves filtering a given list to extract non-negative integers and exclude any strings. The solution I provided is a JavaScript function called filter_list that uses the Array.filter() method to iterate through the input list, checking each item to ensure it's a number and greater than or equal to zero. It returns a new array containing only the non-negative integers, effectively filtering out the strings. This solution helps clean and process data by separating integers from strings in the input list.
